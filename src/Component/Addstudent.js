@@ -1,8 +1,10 @@
 import React from 'react'
+import Header from './Header'
 
 const Addstudent = () => {
   return (
     <div>
+       <Header/>
         <div class="Container">
     <div class="row g-2">
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
